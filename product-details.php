@@ -303,7 +303,7 @@
                 <div class="intro-video-box">
                     <!-- Our Video Circle Start -->
                     <div class="our-video-circle">
-                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                        <a href="https://www.youtube.com/watch?v=kZDcKwCoZRY" class="popup-video"
                             data-cursor-text="Play">
                             <img src="images/our-video-circle.svg" alt="">
                         </a>

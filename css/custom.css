@@ -1191,9 +1191,8 @@ header.main-header .container-fluid {
 /************************************/
 
 .about-us {
-	padding: 60px 0;
+    padding: 80px 0 60px;
 }
-
 .about-image-box {
 	height: 100%;
 	display: flex;
@@ -2173,7 +2172,7 @@ header.main-header .container-fluid {
 	padding: 10px 16px 10px 46px;
 }
 
-.intro-video-list ul li::before {
+/* .intro-video-list ul li::before {
 	content: '\f058';
 	position: absolute;
 	font-family: 'Font Awesome 7 Free';
@@ -2184,7 +2183,7 @@ header.main-header .container-fluid {
 	top: 50%;
 	transform: translateY(-50%);
 	line-height: normal;
-}
+} */
 
 /************************************/
 /*** 	 12. Our Features css	  ***/
@@ -2589,11 +2588,11 @@ header.main-header .container-fluid {
 }
 
 .testimonial-item {
-	min-height: 460px;
+	min-height: 380px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	gap: 30px;
+	gap: 20px;
 }
 
 .testimonial-header {
@@ -4638,7 +4637,7 @@ header.main-header .container-fluid {
 /************************************/
 
 .page-contact-us {
-	padding: 100px 0;
+    padding: 60px 0;
 }
 
 .page-contact-us .container {
@@ -4774,8 +4773,7 @@ header.main-header .container-fluid {
 	overflow: hidden;
 }
 
-.contact-us-form {
-	height: 100%;
+.contact-us-form { 
 	background-color: var(--secondary-color);
 	border-radius: 12px;
 	align-content: center;
