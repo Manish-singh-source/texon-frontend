@@ -32,7 +32,8 @@
                         <div class="intro-video-list wow fadeInUp" data-wow-delay="0.2s">
                             <p class="text-center pb-50 cl-white para">Solving complex problems with advanced sensing
                                 solutions</p>
-                            <a href="javascript:void(0);" class="btn-default text-center">Get a Quote</a>
+                            <a href="javascript:void(0);" class="btn-default text-center">Get a Quote</a>  &nbsp;&nbsp;
+                            <a href="javascript:void(0);" class="btn-default text-center">Download Brochure</a> 
                         </div>
                     </div>
                 </div>
