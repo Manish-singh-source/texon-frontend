@@ -620,11 +620,14 @@
                                     </div>
                                     <div class="testimonial-body">
                                         <div class="testimonial-content">
-                                            <p>“texan's precision instruments have transformed our lab’s research
+                                            <p>“Texan's precision instruments have transformed our lab’s research
                                                 capabilities. Their reliable products and prompt support make them a
                                                 trusted partner.”</p>
                                         </div>
                                         <div class="testimonial-author-content">
+                                            <div class="testimonial-stars">
+                                                ⭐⭐⭐⭐⭐
+                                            </div>
                                             <h3>Darlene Robertson</h3>
                                             <p>CEO & Founder</p>
                                         </div>
@@ -646,13 +649,14 @@
                                     </div>
                                     <div class="testimonial-body">
                                         <div class="testimonial-content">
-                                            <p>“Partnering with this cybersecurity team has completely transformed
-                                                the way we protect our digital assets. Their proactive monitoring,
-                                                advanced threat detection, and immediate response to incidents have
-                                                given our entire organization a level of confidence we never had
-                                                before. We now operate without fear of breaches.”</p>
+                                            <p>“Texan's precision instruments have transformed our lab’s research
+                                                capabilities. Their reliable products and prompt support make them a
+                                                trusted partner.”</p>
                                         </div>
                                         <div class="testimonial-author-content">
+                                            <div class="testimonial-stars">
+                                                ⭐⭐⭐⭐⭐
+                                            </div>
                                             <h3>John Carter</h3>
                                             <p>CTO, FinSecure Ltd.</p>
                                         </div>

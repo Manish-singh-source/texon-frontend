@@ -1950,6 +1950,19 @@ header.main-header .container-fluid {
 /***   10. Our Case Studies css	  ***/
 /************************************/
 
+
+.testimonial-stars {
+    margin-bottom: 6px;
+}
+
+.testimonial-stars i {
+    color: #f5c518; /* gold stars */
+    font-size: 14px;
+    margin-right: 2px;
+}
+
+
+
 .our-case-study {
 	padding: 60px 0;
 }
