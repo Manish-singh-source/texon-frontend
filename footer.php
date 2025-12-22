@@ -64,14 +64,14 @@
                   <!-- About Footer End -->
               </div>
 
-              <div class="col-xl-3 col-md-6">
-                  <!-- Footer Location Link Start -->
+              <!-- <div class="col-xl-3 col-md-6">
+                  
                   <div class="footer-location footer-links">
                       <h3>Our Location</h3>
-                      <p>1st Floor, 107, Building No.1, Heritage Parody, M G Cross Road 1st, Kandivali West, Mumbai - 400067, Maharashtra, India</p>
+                      <p></p>
                   </div>
-                  <!-- Footer Location Link End -->
-              </div>
+                  
+              </div> -->
 
               <div class="col-xl-3 col-md-6">
                   <!-- Footer Contact Start -->
@@ -80,6 +80,8 @@
                       <ul>
                           <li><a href="tel:+919769606708">+91 9769 60 6708</a></li>
                           <li><a href="mailto:admin@texon-corporation.com ">admin@texon-corporation.com </a></li>
+                          <li><a href="javascript:void(0)">1st Floor, 107, Building No.1, Heritage Parody, M G Cross
+                                  Road 1st, Kandivali West, Mumbai - 400067, Maharashtra, India</a></li>
                       </ul>
                   </div>
                   <!-- Footer Contact End -->
@@ -90,14 +92,28 @@
                   <div class="footer-newsletter-form footer-links">
                       <h3>Quick Links</h3>
                       <ul>
-                          <!-- <li><a href="index.php">Home</a></li>
-                          <li><a href="about-us.php">About Us</a></li> -->
+                           <li><a href="index.php">Home</a></li>
+                          <li><a href="about-us.php">About Us</a></li> 
                           <li><a href="products.php">Products</a></li>
                           <li><a href="javascript:void(0)">Blogs</a></li>
                           <li><a href="contact-us.php">Contact Us</a></li>
                       </ul>
                   </div>
-                  <!-- Footer Newsletter Form End -->
+
+              </div>
+              <div class="col-xl-3 col-md-6">
+                  <!-- Footer Newsletter Form Start -->
+                  <div class="footer-newsletter-form footer-links">
+                      <h3>Contact Us</h3>
+                      <ul>                          
+                          <li><a href="javascript:void(0)">Refund Policy</a></li>
+                          <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                          <li><a href="javascript:void(0)">Shipping Policy</a></li>
+                          <li><a href="javascript:void(0)">Terms and Conditions</a></li>
+                          <li><a href="javascript:void(0)">Site Map</a></li>
+                      </ul>
+                  </div>
+
               </div>
           </div>
       </div>
@@ -114,14 +130,9 @@
                           </div>
 
                           <!-- Footer Menu Start -->
-                          <div class="footer-menu">
-                              <ul>
-                                  <li><a href="javascript:void(0)">Refund Policy</a></li>
-                                  <li><a href="javascript:void(0)">Privacy Policy</a></li>  
-                                  <li><a href="javascript:void(0)">Shipping Policy</a></li>
-                                  <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-                                  <!-- <li><a href="contact-us.php">Contact Us</a></li> -->
-                              </ul>
+                          <div class="footer-menu text-white">
+                            Developed by <a href="https://www.technofra.com/" target="_blank" class="text-white">Technofra</a>
+                               
                           </div>
                           <!-- Footer Menu End -->
                       </div>

@@ -185,7 +185,7 @@
                     <div class="feature-item box-1 wow fadeInUp">
                         <div class="feature-image">
                             <figure>
-                                <img src="https://5.imimg.com/data5/SELLER/Default/2023/11/358546356/JY/UD/AT/78946987/bending-beam-load-cell-1000x1000.jpg"
+                                <img src="img/prod1.png"
                                     alt="" class="imgh">
                             </figure>
                         </div>
@@ -260,7 +260,7 @@
                         <!-- Scrolling Ticker Box End -->
                         <div class="feature-image">
                             <figure>
-                                <img src="https://5.imimg.com/data5/SELLER/Default/2025/6/519062251/OZ/ZT/HO/78946987/delsys-wireless-emg-1000x1000.jpg"
+                                <img src="img/prod2.png"
                                     alt="" class="imgh">
                             </figure>
                         </div>
@@ -276,7 +276,7 @@
                     <div class="feature-item box-3 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="feature-image">
                             <figure>
-                                <img src="https://5.imimg.com/data5/SELLER/Default/2024/6/428585848/MQ/VL/JP/78946987/baseline-plastic-goniometer-360-degree-head-6-inch-arms-500x500.jpg"
+                                <img src="img/prod3.png"
                                     alt="" class="imgh">
                             </figure>
                         </div>
@@ -292,7 +292,7 @@
                     <div class="feature-item box-4 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="feature-image">
                             <figure>
-                                <img src="https://5.imimg.com/data5/SELLER/Default/2025/11/560471370/CR/RD/WI/78946987/sysmex-manual-mandibulometer-1000x1000.jpeg"
+                                <img src="img/prod4.png"
                                     alt="" class="imgh">
                             </figure>
                         </div>
@@ -308,7 +308,7 @@
                     <div class="feature-item box-5 wow fadeInUp" data-wow-delay="0.8s">
                         <div class="feature-image">
                             <figure>
-                                <img src="https://5.imimg.com/data5/SELLER/Default/2025/6/523382442/US/XQ/OG/78946987/cando-pedal-exerciser-with-digital-display-fold-up-500x500.jpg"
+                                <img src="img/prod5.png"
                                     alt="" class="imgh">
                             </figure>
                         </div>

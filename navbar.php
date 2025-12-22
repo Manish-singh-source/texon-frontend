@@ -16,13 +16,14 @@
                                 <li class="nav-item active"><a class="nav-link" href="index.php">Home</a>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="javascript:void(0);">About Us</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="javascript:void(0);">Products</a>
-
+                                <li class="nav-item"><a class="nav-link" href="category.php">Products</a></li>
+                                <li class="nav-item"><a class="nav-link" href="javascript:void(0);">Gallery</a></li>
+                                <!-- <li class="nav-item submenu"><a class="nav-link" href="javascript:void(0);">Products</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="category.php">Engineering </a></li>
                                         <li class="nav-item"><a class="nav-link" href="category.php">Life Science </a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </div>

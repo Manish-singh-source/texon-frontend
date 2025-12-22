@@ -44,169 +44,7 @@
 </div>
 
 
-<!-- Our Services Section Start -->
-<div class="our-services">
-    <div class="container">
-        <div class="row section-row align-items-center">
-            <div class="col-xl-7">
-                <!-- Section Title Start -->
-                <div class="section-title">
-                    <h3 class="wow fadeInUp">Capture EMG Your Way</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque">For every application,<span> Trigno Centro
-                            Supports
-                        </span> your research</h2>
-                </div>
-                <!-- Section Title End -->
-            </div>
 
-            <!-- <div class="col-xl-5">
-                   
-                    <div class="section-content-btn">
-                         
-                        <div class="section-title-content wow fadeInUp" data-wow-delay="0.2s">
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">We provide customized cybersecurity services
-                                designed to match your business needs, whether you're a startup or an enterprise.</p>
-                        </div>
-                         
-
-                         
-                        <div class="section-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="services.html" class="btn-default">View All Services</a>
-                        </div>
-                         
-                    </div>
-                     
-                </div> -->
-        </div>
-
-        <div class="row service-list">
-            <div class="col-xl-4 col-md-6">
-                <!-- Service Item Start -->
-                <div class="service-item wow fadeInUp">
-                    <!-- Service Item Body Start -->
-                    <div class="service-item-body">
-                        <!-- Service Item Header Start -->
-                        <div class="service-item-header">
-                            <div class="service-item-title">
-                                <h3><a href="javascript:void(0);">Engineering</a></h3>
-                            </div>
-                            <div class="service-item-btn">
-                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
-                            </div>
-                        </div>
-                        <!-- Service Item Header End -->
-
-                        <!-- Service Item Content Start -->
-                        <div class="service-item-content">
-                            <p>We Texon Corpporation offer class C3 Load cells for precesie weighing applications. our
-                                Load cell range starts from 110 gm to 300 Ton.
-                            </p>
-                        </div>
-                        <!-- Service Item Content End -->
-                    </div>
-                    <!-- Service Item Body End -->
-
-                    <!-- Icon Box Start -->
-                    <div class="icon-box">
-                        <img src="images/icon-service-item-1.svg" alt="">
-                    </div>
-                    <!-- Icon Box End -->
-
-                    <!-- Service Bg Icon Start -->
-                    <div class="service-bg-icon">
-                        <img src="images/icon-service-item-1-bg.svg" alt="">
-                    </div>
-                    <!-- Service Bg Icon End -->
-                </div>
-                <!-- Service Item End -->
-            </div>
-
-            <div class="col-xl-4 col-md-6">
-                <!-- Service Item Start -->
-                <div class="service-item active wow fadeInUp" data-wow-delay="0.2s">
-                    <!-- Service Item Body Start -->
-                    <div class="service-item-body">
-                        <!-- Service Item Header Start -->
-                        <div class="service-item-header">
-                            <div class="service-item-title">
-                                <h3><a href="javascript:void(0);">Movement Sciences</a></h3>
-                            </div>
-                            <div class="service-item-btn">
-                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
-                            </div>
-                        </div>
-                        <!-- Service Item Header End -->
-
-                        <!-- Service Item Content Start -->
-                        <div class="service-item-content">
-                            <p>Movement Sciences studies human movement to enhance performance, prevent injuries, and
-                                promote overall physical health.</p>
-                        </div>
-                        <!-- Service Item Content End -->
-                    </div>
-                    <!-- Service Item Body End -->
-
-                    <!-- Icon Box Start -->
-                    <div class="icon-box">
-                        <img src="images/icon-service-item-2.svg" alt="">
-                    </div>
-                    <!-- Icon Box End -->
-
-                    <!-- Service Bg Icon Start -->
-                    <div class="service-bg-icon">
-                        <img src="images/icon-service-item-2-bg.svg" alt="">
-                    </div>
-                    <!-- Service Bg Icon End -->
-                </div>
-                <!-- Service Item End -->
-            </div>
-
-            <div class="col-xl-4 col-md-6">
-                <!-- Service Item Start -->
-                <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
-                    <!-- Service Item Body Start -->
-                    <div class="service-item-body">
-                        <!-- Service Item Header Start -->
-                        <div class="service-item-header">
-                            <div class="service-item-title">
-                                <h3><a href="javascript:void(0);">Neurophysiology</a></h3>
-                            </div>
-                            <div class="service-item-btn">
-                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
-                            </div>
-                        </div>
-                        <!-- Service Item Header End -->
-
-                        <!-- Service Item Content Start -->
-                        <div class="service-item-content">
-                            <p>Neurophysiology studies how the nervous system functions, transmitting signals that
-                                control movement, behavior, and bodily processes.</p>
-                        </div>
-                        <!-- Service Item Content End -->
-                    </div>
-                    <!-- Service Item Body End -->
-
-                    <!-- Icon Box Start -->
-                    <div class="icon-box">
-                        <img src="images/icon-service-item-3.svg" alt="">
-                    </div>
-                    <!-- Icon Box End -->
-
-                    <!-- Service Bg Icon Start -->
-                    <div class="service-bg-icon">
-                        <img src="images/icon-service-item-3-bg.svg" alt="">
-                    </div>
-                    <!-- Service Bg Icon End -->
-                </div>
-                <!-- Service Item End -->
-            </div>
-
-
-
-        </div>
-    </div>
-</div>
-<!-- Our Services Section End -->
 
 
 
@@ -381,6 +219,148 @@
         </div>
     </div>
 </div>
+<!-- Our Services Section Start -->
+<div class="our-services">
+    <div class="container">
+        <div class="row section-row align-items-center">
+            <div class="col-xl-7">
+                <!-- Section Title Start -->
+                <div class="section-title">
+                    <h3 class="wow fadeInUp">Capture EMG Your Way</h3>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque">For every application,<span> Trigno Centro
+                            Supports
+                        </span> your research</h2>
+                </div>               
+            </div>            
+        </div>
 
+        <div class="row service-list">
+            <div class="col-xl-4 col-md-6">
+                <!-- Service Item Start -->
+                <div class="service-item wow fadeInUp">
+                    <!-- Service Item Body Start -->
+                    <div class="service-item-body">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="service-item-title">
+                                <h3><a href="javascript:void(0);">Engineering</a></h3>
+                            </div>
+                            <div class="service-item-btn">
+                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Content Start -->
+                        <div class="service-item-content">
+                            <p>We Texon Corpporation offer class C3 Load cells for precesie weighing applications. our
+                                Load cell range starts from 110 gm to 300 Ton.
+                            </p>
+                        </div>
+                        <!-- Service Item Content End -->
+                    </div>
+                    <!-- Service Item Body End -->
+
+                    <!-- Icon Box Start -->
+                    <div class="icon-box">
+                        <img src="images/icon-service-item-1.svg" alt="">
+                    </div>
+                    <!-- Icon Box End -->
+
+                    <!-- Service Bg Icon Start -->
+                    <div class="service-bg-icon">
+                        <img src="images/icon-service-item-1-bg.svg" alt="">
+                    </div>
+                    <!-- Service Bg Icon End -->
+                </div>
+                <!-- Service Item End -->
+            </div>
+
+            <div class="col-xl-4 col-md-6">
+                <!-- Service Item Start -->
+                <div class="service-item active wow fadeInUp" data-wow-delay="0.2s">
+                    <!-- Service Item Body Start -->
+                    <div class="service-item-body">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="service-item-title">
+                                <h3><a href="javascript:void(0);">Movement Sciences</a></h3>
+                            </div>
+                            <div class="service-item-btn">
+                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Content Start -->
+                        <div class="service-item-content">
+                            <p>Movement Sciences studies human movement to enhance performance, prevent injuries, and
+                                promote overall physical health.</p>
+                        </div>
+                        <!-- Service Item Content End -->
+                    </div>
+                    <!-- Service Item Body End -->
+
+                    <!-- Icon Box Start -->
+                    <div class="icon-box">
+                        <img src="images/icon-service-item-2.svg" alt="">
+                    </div>
+                    <!-- Icon Box End -->
+
+                    <!-- Service Bg Icon Start -->
+                    <div class="service-bg-icon">
+                        <img src="images/icon-service-item-2-bg.svg" alt="">
+                    </div>
+                    <!-- Service Bg Icon End -->
+                </div>
+                <!-- Service Item End -->
+            </div>
+
+            <div class="col-xl-4 col-md-6">
+                <!-- Service Item Start -->
+                <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
+                    <!-- Service Item Body Start -->
+                    <div class="service-item-body">
+                        <!-- Service Item Header Start -->
+                        <div class="service-item-header">
+                            <div class="service-item-title">
+                                <h3><a href="javascript:void(0);">Neurophysiology</a></h3>
+                            </div>
+                            <div class="service-item-btn">
+                                <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- Service Item Header End -->
+
+                        <!-- Service Item Content Start -->
+                        <div class="service-item-content">
+                            <p>Neurophysiology studies how the nervous system functions, transmitting signals that
+                                control movement, behavior, and bodily processes.</p>
+                        </div>
+                        <!-- Service Item Content End -->
+                    </div>
+                    <!-- Service Item Body End -->
+
+                    <!-- Icon Box Start -->
+                    <div class="icon-box">
+                        <img src="images/icon-service-item-3.svg" alt="">
+                    </div>
+                    <!-- Icon Box End -->
+
+                    <!-- Service Bg Icon Start -->
+                    <div class="service-bg-icon">
+                        <img src="images/icon-service-item-3-bg.svg" alt="">
+                    </div>
+                    <!-- Service Bg Icon End -->
+                </div>
+                <!-- Service Item End -->
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+<!-- Our Services Section End -->
 
 <?php include 'footer.php';?>

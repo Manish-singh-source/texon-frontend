@@ -7,11 +7,11 @@
             <div class="col-lg-12">
                 <!-- Page Header Box Start -->
                 <div class="page-header-box">
-                    <h1 class="text-anime-style-2" data-cursor="-opaque">Products </h1>
+                    <h1 class="text-anime-style-2" data-cursor="-opaque">Category </h1>
                     <nav class="wow fadeInUp">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.php">home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Products</li>
+                            <li class="breadcrumb-item active" aria-current="page">Category</li>
                         </ol>
                     </nav>
                 </div>
@@ -30,7 +30,7 @@
             <div class="col-lg-12">
                 <!-- Section Title Start -->
                 <div class="section-title section-title-center">
-                    <h3 class="wow fadeInUp">Our Products</h3>
+                    <h3 class="wow fadeInUp">Our Category</h3>
                     <h2 class="text-effect" data-cursor="-opaque"> Texon Corporation at a Glance
 
                     </h2>
