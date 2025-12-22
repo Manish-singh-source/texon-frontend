@@ -1,11 +1,6 @@
 <?php include 'header.php';?>
 <style>
- .about-us-image figure img {
-    width: 100%;
-    aspect-ratio: 1/0.0;
-    object-fit: cover;
-    border-radius: 12px;
-}
+
 </style>
 <?php include 'navbar.php';?>
 <!-- Intro Video Section Start -->
@@ -32,8 +27,8 @@
                         <div class="intro-video-list wow fadeInUp" data-wow-delay="0.2s">
                             <p class="text-center pb-50 cl-white para">Solving complex problems with advanced sensing
                                 solutions</p>
-                            <a href="javascript:void(0);" class="btn-default text-center">Get a Quote</a>  &nbsp;&nbsp;
-                            <a href="javascript:void(0);" class="btn-default text-center">Download Brochure</a> 
+                            <a href="javascript:void(0);" class="btn-default text-center">Get a Quote</a> &nbsp;&nbsp;
+                            <a href="javascript:void(0);" class="btn-default text-center">Download Brochure</a>
                         </div>
                     </div>
                 </div>
@@ -45,9 +40,156 @@
 
 
 
+<div class="about-us pb-20">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <!-- About Image Box Start -->
+                <div class="image-gallery" style="position: relative;">
+                    <figure>
+                        <img id="sidebar-image" src="img/pd1.png" alt="Product Image"  >
+                    </figure>
+                    <button id="prev-btn" class="btn-defaults"
+                        style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%);"> <img
+                            src="img/left-arrow.png" alt=""> </button>
+                    <button id="next-btn" class="btn-defaults"
+                        style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%);"> <img
+                            src="img/right-arrow.png" alt=""> </button>
+                </div>
+            </div>
+
+            <!-- About Content End -->
+
+            <div class="col-lg-6">
+                <!-- Sidebar Content Start -->
+                <div class="sidebar-content">
+                    <div class="section-sub-title">
+                        <h3 class="wow fadeInUp">About Product </h3>
+                    </div>
+                    <div class="section-title">
+                        <h2 class="text-effect" data-cursor="-opaque">Trigno Centro</h2>
+                        <p class="wow fadeInUp">Created from over 30 years of experience and close collaboration with
+                            the EMG research community, Trigno Centro represents an evolutionary leap at the heart of
+                            our product ecosystem.</p>
+                        <p class="wow fadeInUp">Engineered to deliver uncompromising signal quality, Trigno Centro
+                            provides a powerful, centralized platform for acquiring and synchronizing high-fidelity
+                            biosignals. Its modular architecture supports a wide range of sensors and experimental
+                            configurations, enabling seamless adaptation across human movement science, engineering, and
+                            neurophysiology applications..</p>
+                        <p class="wow fadeInUp">With advanced data integrity, low latency performance, and robust
+                            scalability, Trigno Centro empowers researchers to design complex experiments with
+                            confidence. Whether capturing subtle neuromuscular activity or integrating multimodal data
+                            streams, the system ensures precision without sacrificing flexibility. </p>
+                    </div>
+
+                </div>
+                <!-- Sidebar Content End -->
+            </div>
+        </div>
+    </div>
+</div>
 
 
+<section class="services-section">
+    <div class="containers container">
 
+        <!-- LEFT STICKY -->
+        <div class="left">
+            <div class="sticky-box">
+                <div class="video-box" onclick="openVideo()">
+                    <img src="img\prd1.jpg" alt="Business">
+                    <div class="play-btn">▶</div>
+                </div>
+
+                <!-- VIDEO MODAL -->
+                <div class="video-modal" id="videoModal">
+                    <span class="close" onclick="closeVideo()">✕</span>
+                    <iframe id="videoFrame" src="" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+                    </iframe>
+                </div>
+
+
+                <h2 class="title text-white">
+                    Services Built for
+                    <span>Business</span> goal
+                    Success
+                </h2>
+
+                <button class="btn">More services →</button>
+            </div>
+        </div>
+
+        <!-- RIGHT SCROLLABLE -->
+        <div class="right">
+            <div class="service">
+                <div class="img-box">
+                    <h3 class="title text-white">01. Business process optimization</h3>
+                    <p>
+                        In today’s dynamic business environment, the key to success lies
+                        in strategic planning and operational excellence.
+                    </p>
+                </div>
+
+                <div class="service-item-btn">
+                    <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                </div>
+            </div>
+
+            <div class="service">
+                <div class="img-box">
+                    <h3 class="title text-white">02. Strategic planning & execution</h3>
+                    <p>
+                        In today’s dynamic business environment, the key to success lies
+                        in strategic planning and operational excellence.
+                    </p>
+                </div>
+                <div class="service-item-btn">
+                    <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                </div>
+            </div>
+
+
+            <div class="service">
+                <div class="img-box">
+                    <h3 class="title text-white">03. Leadership executive coaching</h3>
+                    <p>
+                        In today’s dynamic business environment, the key to success lies
+                        in strategic planning and operational excellence.
+                    </p>
+                </div>
+                <div class="service-item-btn">
+                    <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                </div>
+            </div>
+
+            <div class="service">
+                <div class="img-box">
+                    <h3 class="title text-white">04. Business process optimization</h3>
+                    <p>
+                        In today’s dynamic business environment, the key to success lies
+                        in strategic planning and operational excellence.
+                    </p>
+                </div>
+                <div class="service-item-btn">
+                    <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                </div>
+            </div>
+            <div class="service">
+                <div class="img-box">
+                    <h3 class="title text-white">05. Business process optimization</h3>
+                    <p>
+                        In today’s dynamic business environment, the key to success lies
+                        in strategic planning and operational excellence.
+                    </p>
+                </div>
+                <div class="service-item-btn">
+                    <a href="javascript:void(0);"><img src="images/arrow-primary.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
 <!-- Our Features Section Start -->
 <div class="our-features">
     <div class="container">
@@ -173,52 +315,7 @@
 </div>
 <!-- Intro Video Section End -->
 
-<div class="about-us">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <!-- About Image Box Start -->
-                <div class="about-image-box">
-                    <!-- Section Sub Title Start -->
-                    
-                    <!-- Section Sub Title End -->
 
-                    <!-- About Image Start -->
-                    <div class="about-us-image">
-                        <figure class="image-anime reveal">
-                            <img src="img/prd1.png" alt="" class="prd1">
-                        </figure>
-                    </div>
-                    <!-- About Image End -->
-                </div>
-                <!-- About Image Box End -->
-            </div>
-
-            <div class="col-lg-7">
-                <!-- About Content Start -->
-                <div class="about-us-content">
-                    <div class="section-sub-title">
-                        <h3 class="wow fadeInUp">About Product</h3>
-                    </div>
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h2 class="text-effect" data-cursor="-opaque">Precision and Flexibility</h2>
-                        <p class="wow fadeInUp">Created from over 30 years of experience and close collaboration with the EMG research community, Trigno Centro represents an evolutionary leap at the heart of our product ecosystem.</p>
-                        <p class="wow fadeInUp">Engineered to deliver uncompromising signal quality, Trigno Centro provides a powerful, centralized platform for acquiring and synchronizing high-fidelity biosignals. Its modular architecture supports a wide range of sensors and experimental configurations, enabling seamless adaptation across human movement science, engineering, and neurophysiology applications..</p>
-                        <p class="wow fadeInUp">With advanced data integrity, low latency performance, and robust scalability, Trigno Centro empowers researchers to design complex experiments with confidence. Whether capturing subtle neuromuscular activity or integrating multimodal data streams, the system ensures precision without sacrificing flexibility. </p>
-                    </div>
-                    <!-- Section Title End -->
-
-                    <!-- About Review Box Start -->
-                     
-                    <!-- About Circle End -->
-                </div>
-                <!-- About Review Box End -->
-            </div>
-            <!-- About Content End -->
-        </div>
-    </div>
-</div>
 <!-- Our Services Section Start -->
 <div class="our-services">
     <div class="container">
@@ -230,8 +327,8 @@
                     <h2 class="text-anime-style-2" data-cursor="-opaque">For every application,<span> Trigno Centro
                             Supports
                         </span> your research</h2>
-                </div>               
-            </div>            
+                </div>
+            </div>
         </div>
 
         <div class="row service-list">
@@ -355,12 +452,47 @@
                 </div>
                 <!-- Service Item End -->
             </div>
-
-
-
         </div>
     </div>
 </div>
-<!-- Our Services Section End -->
+
+
+
+
+<script>
+const images = ['img/pd1.png', 'img/pd2.png', 'img/pd3.png', 'img/pd4.png', 'img/pd5.png'];
+let currentIndex = 0;
+const imgElement = document.getElementById('sidebar-image');
+
+function updateImage() {
+    imgElement.src = images[currentIndex];
+}
+
+document.getElementById('prev-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateImage();
+});
+
+document.getElementById('next-btn').addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % images.length;
+    updateImage();
+});
+
+// Initial load
+updateImage();
+</script>
+<script>
+function openVideo() {
+    document.getElementById("videoModal").style.display = "flex";
+    document.getElementById("videoFrame").src =
+        "https://www.youtube.com/embed/VIDEO_ID?autoplay=1";
+}
+
+function closeVideo() {
+    document.getElementById("videoModal").style.display = "none";
+    document.getElementById("videoFrame").src = "";
+}
+</script>
+
 
 <?php include 'footer.php';?>

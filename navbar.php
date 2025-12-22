@@ -17,7 +17,7 @@
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="javascript:void(0);">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="category.php">Products</a></li>
-                                <li class="nav-item"><a class="nav-link" href="javascript:void(0);">Gallery</a></li>
+                                <li class="nav-item"><a class="nav-link" href="our-presence.php">Our Presence</a></li>
                                 <!-- <li class="nav-item submenu"><a class="nav-link" href="javascript:void(0);">Products</a>
                                     <ul>
                                         <li class="nav-item"><a class="nav-link" href="category.php">Engineering </a></li>
@@ -32,7 +32,7 @@
                         <div class="header-search">
                             <form action="search.php" method="get" class="search-form">
                                 <input type="text" name="q" placeholder="Search..." class="search-input">
-                                <button type="submit" class="search-btn"><i class="fas fa-search"></i></button>
+                                <button type="submit" class="search-btn"> <img src="img/search.png" alt=""> </button>
                             </form>
                         </div>
                         <!-- Header Search End -->
