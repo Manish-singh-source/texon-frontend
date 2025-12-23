@@ -15,7 +15,7 @@
                             <ul class="navbar-nav mr-auto" id="menu">
                                 <li class="nav-item active"><a class="nav-link" href="index.php">Home</a>
                                 </li>
-                                <li class="nav-item"><a class="nav-link" href="javascript:void(0);">About Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="about-us.php">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="category.php">Products</a></li>
                                 <li class="nav-item"><a class="nav-link" href="our-presence.php">Our Presence</a></li>
                                 <!-- <li class="nav-item submenu"><a class="nav-link" href="javascript:void(0);">Products</a>
@@ -25,6 +25,13 @@
                                     </ul>
                                 </li> -->
                                 <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
+                                <li class="nav-item mobile-search">
+                                    <h5>Search Here</h5>
+                                    <form action="search.php" method="get" class="search-form">
+                                        <input type="text" name="q" placeholder="Search..." class="search-input">
+                                        <button type="submit" class="search-btn"> <img src="img/search.png" alt=""> </button>
+                                    </form>
+                                </li>
                             </ul>
                         </div>
 
