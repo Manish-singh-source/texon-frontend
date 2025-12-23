@@ -97,21 +97,11 @@
         <div class="left">
             <div class="sticky-box">
                 <div class="video-box" onclick="openVideo()">
-                    <img src="img\prd1.jpg" alt="Business">
-                    <div class="play-btn">▶</div>
+                    <img src="img\prd1.jpg" alt="Business">                    
                 </div>
-
-                <!-- VIDEO MODAL -->
-                <div class="video-modal" id="videoModal">
-                    <span class="close" onclick="closeVideo()">✕</span>
-                    <iframe id="videoFrame" src="" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
-                    </iframe>
-                </div>
-
-
-                <h2 class="title text-white">
+                <h2 class="title text-white text-anime-style-2" data-cursor="-opaque">
                     Services Built for
-                    <span>Business</span> goal
+                    <span>Business</span> Goal
                     Success
                 </h2>
 

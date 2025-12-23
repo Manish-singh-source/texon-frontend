@@ -63,19 +63,19 @@
                     <div class="section-title">
                         <h3 class="wow fadeInUp">About Us</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque">About <span>Texon Corporation</span></h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Texon Corporation was established as a sole
-                            proprietorship instrumentation firm in Mumbai, India, and has been operating since 2019, The
-                            company began with a focused mission to deliver precision sensors, measurement & Analysis
-                            systems, and engineering solutions that cater to R&D, industrial, clinical, and performance
-                            analysis needs. Over the years, Texon Corporation has developed a reputation for supplying a
-                            broad range of high-quality instruments—from load cells and dynamometers to specialized
-                            clinical measurement devices—serving customers across sectors such as healthcare, industrial
-                            automation, research laboratories, and technical education. </p>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Today, Texon’s offerings are trusted not only
-                            within India but also exported to markets such as Nepal , Bhutan , Bangladesh and Sri Lanka,
-                            reflecting its commitment to quality, reliability, and responsive service in precision
-                            measurement technology.</p>
-
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Texon Corporation is a trusted company that
+                            specializes in
+                            cutting-edge products for Human Movement Science. We provide
+                            access to world-class technologies designed to enhance the
+                            understanding, analysis, and improvement of human motion. </p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">As an authorized distributor of top brands in
+                            movement assessment and
+                            performance optimization, Texon guarantees that clients receive
+                            dependable, high-quality solutions supported by expert advice and
+                            dedicated service.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s"> Each product we offer is meticulously chosen to
+                            meet the highest standards
+                            of accuracy, innovation, and usability.</p>
                     </div>
                     <!-- Section Title End -->
 
@@ -285,7 +285,7 @@
                             </div>
                         </div>
                         <!-- Why Choose Item End -->
-                         <!-- Why Choose Item Start -->
+                        <!-- Why Choose Item Start -->
                         <div class="why-choose-item">
                             <div class="icon-box">
                                 <img src="img/i2.png" alt="">
@@ -308,7 +308,7 @@
                             </div>
                         </div>
                         <!-- Why Choose Item End -->
-                        
+
                         <!-- Why Choose Item Start -->
                         <div class="why-choose-item">
                             <div class="icon-box">

@@ -148,7 +148,7 @@
                         <!-- About Review Box Start -->
                         <div class="section-btn wow fadeInUp" data-wow-delay="0.4s"
                             style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                            <a href="about.php" class="btn-default">Know More</a>
+                            <a href="about-us.php" class="btn-default">Know More</a>
                         </div>
                     </div>
                     <!-- About Circle End -->

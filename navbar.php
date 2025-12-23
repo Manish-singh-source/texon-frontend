@@ -46,7 +46,7 @@
 
                         <!-- Header Btn Start -->
                         <div class="header-btn">
-                            <a class="btn-default" href="javascript:void(0);">Get a Quote</a>
+                            <a class="btn-default" href="get-a-quote.php">Get a Quote</a>
                         </div>
                         <!-- Header Btn End -->
                     </div>
