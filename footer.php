@@ -30,10 +30,10 @@
                           <!-- Scrolling Ticker Box End -->
 
                           <!-- Footer Contact Button Start -->
-                          <div class="footer-contact-btn">
+                          <!-- <div class="footer-contact-btn">
                               <a href="contact-us.php" class="schedule-btn">Contact Us <img src="images/arrow-white.svg"
                                       alt=""></a>
-                          </div>
+                          </div> -->
                           <!-- Footer Contact Button End -->
                       </div>
                       <!-- Footer Scrolling Ticker End -->
@@ -59,6 +59,14 @@
                           <p>We "Texon Corporation" are Sole Proprietorship based firm, engaged as the foremost
                               Manufacturer, Trader and service providers of sensors, systems and software</p>
                       </div>
+                      <div class="social-media">
+                          <ul>
+                              <li> <a href="" target="_blank"><img src="img/whatsapp.png" alt=""></a> </li>
+                              <li><a href="" target="_blank"><img src="img/facebook.png" alt=""> </a> </li>
+                              <li><a href="" target="_blank"><img src="img/linkedin.png" alt=""></a> </li>
+                              <li><a href="" target="_blank"><img src="img/twitter.png" alt=""></a> </li>
+                          </ul>
+                      </div>
                       <!-- About Footer Content End -->
                   </div>
                   <!-- About Footer End -->
@@ -75,11 +83,11 @@
 
               <div class="col-xl-3 col-md-6">
                   <!-- Footer Contact Start -->
-                  <div class="footer-contact footer-links">
+                  <div class="footer-contact footer-links no-select">
                       <h3>Contact Information</h3>
                       <ul>
                           <li><a href="tel:+919769606708">+91 9769 60 6708</a></li>
-                          <li><a href="mailto:admin@texon-corporation.com ">admin@texon-corporation.com </a></li>
+                          <li><a href="mailto:admin@texon-corporation.com">admin@texon-corporation.com</a></li>
                           <li><a href="javascript:void(0)">1st Floor, 107, Building No.1, Heritage Parody, M G Cross
                                   Road 1st, Kandivali West, Mumbai - 400067, Maharashtra, India</a></li>
                       </ul>
@@ -92,9 +100,10 @@
                   <div class="footer-newsletter-form footer-links">
                       <h3>Quick Links</h3>
                       <ul>
-                           <li><a href="index.php">Home</a></li>
-                          <li><a href="about-us.php">About Us</a></li> 
-                          <li><a href="products.php">Products</a></li>
+                          <li><a href="index.php">Home</a></li>
+                          <li><a href="about-us.php">About Us</a></li>
+                          <li><a href="products.php">Portfolio</a></li>
+                          <li><a href="javascript:void(0)">Our Presence</a></li>
                           <li><a href="javascript:void(0)">Blogs</a></li>
                           <li><a href="contact-us.php">Contact Us</a></li>
                       </ul>
@@ -105,7 +114,7 @@
                   <!-- Footer Newsletter Form Start -->
                   <div class="footer-newsletter-form footer-links">
                       <h3>Contact Us</h3>
-                      <ul>                          
+                      <ul>
                           <li><a href="javascript:void(0)">Refund Policy</a></li>
                           <li><a href="javascript:void(0)">Privacy Policy</a></li>
                           <li><a href="javascript:void(0)">Shipping Policy</a></li>
@@ -130,10 +139,10 @@
                           </div>
 
                           <!-- Footer Menu Start -->
-                          <div class="footer-menu text-white">
+                          <!-- <div class="footer-menu text-white">
                             Developed by <a href="https://www.technofra.com/" target="_blank" class="text-white">Technofra</a>
                                
-                          </div>
+                          </div> -->
                           <!-- Footer Menu End -->
                       </div>
                       <!-- Footer Copyright  -->
@@ -144,6 +153,13 @@
       <!-- Footer Copyright End -->
   </footer>
   <!-- Footer End -->
+
+  <script>
+// Right-click ko disable karna
+document.querySelectorAll('.footer-contact').forEach(elem => {
+    elem.addEventListener('contextmenu', e => e.preventDefault());
+});
+  </script>
 
   <!-- Jquery Library File -->
   <script src="js/jquery-3.7.1.min.js"></script>

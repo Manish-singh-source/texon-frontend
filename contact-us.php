@@ -69,16 +69,22 @@
 
 
                     <!-- Contact Info Item Start -->
-                    <!-- <div class="contact-info-item wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="contact-info-item wow fadeInUp" data-wow-delay="0.6s">
                         <div class="icon-box">
-                            <img src="images/icon-location-white.svg" alt="">
+                            <img src="img/social-media.png" alt="">
                         </div>
-                        <div class="contact-info-content">
-                            <h3>Address</h3>
-                            <p>Monday - Friday : 10AM - 5:00PM</p>
-                            <p>Saturday : 11AM - 2:00PM</p>
+                        <div class="contact-info-content ">
+                            <h3>Social Media</h3>
+                            <div class="social-medias ">
+                                <ul>
+                                    <li> <a href="" target="_blank"><img src="img/whatsapp.png" alt=""></a> </li>
+                                    <li><a href="" target="_blank"><img src="img/facebook.png" alt=""> </a> </li>
+                                    <li><a href="" target="_blank"><img src="img/linkedin.png" alt=""></a> </li>
+                                    <li><a href="" target="_blank"><img src="img/twitter.png" alt=""></a> </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div> -->
+                    </div>
                     <!-- Contact Info Item End -->
                 </div>
                 <!-- Contact Info List End -->
@@ -148,7 +154,7 @@
                                     placeholder="Your Phone Number" required>
                                 <div class="help-block with-errors"></div>
                             </div>
-                            
+
                             <!-- <div class="form-group col-md-12 mb-4">
                                 <label class="form-label">Company Name *</label>
                                 <input type="text" name="company" class="form-control" id="company"
